@@ -1,0 +1,21 @@
+.mybtn
+{
+  background-color: #4CAF50;
+  width: 100%;
+  color: BLACK;
+  padding: 10px;
+  margin: 10px 0px;
+  border: none;
+  cursor: pointer;
+}
+.mgbasicUI{
+  font-family: Calibri, Helvetica, sans-serif;
+  background-color: white;
+}
+body {
+  background-image: url("jd.jpg.jpg");
+  background-color: #cccccc;
+}
+
+
+
